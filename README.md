@@ -2,7 +2,7 @@
 
 I'm **Matias**, a Computer Engineering student at **Duoc UC** from Chile 🇨🇱.
 
-I'm also a independent video game developer, wich is my true passion. I love blending tecgnical engineering withcreatyive storytelling.
+I'm also a independent video game developer, wich is my true passion. I love blending technical engineering withcreatyive storytelling.
 
 ### 🎮 Current Project
 The game i'm currently working on is **The Crimson Ledger**, an ambitious project I plan to launch by the end of **2027**.
