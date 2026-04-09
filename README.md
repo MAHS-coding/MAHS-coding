@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**MAHS-coding/MAHS-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Matias**, a Computer Engineering student at **Duoc UC** from Chile 🇨🇱.
 
-Here are some ideas to get you started:
+I'm also a independent video game developer, wich is my true passion. I love blending tecgnical engineering withcreatyive storytelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Current Project
+The game i'm currently working on is **The Crimson Ledger**, an ambitious project I plan to launch by the end of **2027**.
+
+### 🛠️ Technologies & Tools
+The main technologies i use today, whether for my career or my hobby, are:
+
+[![My Skills](https://skillicons.dev/icons?i=unity,vscode,git,blender,cs,java)](https://skillicons.dev)
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+
